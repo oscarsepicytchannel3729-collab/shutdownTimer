@@ -1,14 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaa036ca-2b17-477b-8959-89767a3db0f5" name="Changes" comment="" />
+    <list default="true" id="aaa036ca-2b17-477b-8959-89767a3db0f5" name="Changes" comment="finished program just forgot to make any commits lol">
+      <changelist_data name="oscarhilsden" email="" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shutdownTimer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="oscarhilsden" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.177988343378628" />
+      <entry key="MS500" value="5.237580473715206" />
+      <entry key="S2" value="10.294100758760901" />
+      <entry key="S5" value="13.912944787970131" />
+      <entry key="S10" value="16.286081685766653" />
+      <entry key="S30" value="26.09869544653048" />
+      <entry key="S60" value="38.59226425714825" />
+      <entry key="M2" value="56.334473415900426" />
+      <entry key="M5" value="96.51455888207752" />
+      <entry key="M10" value="159.2094646734399" />
+      <entry key="M15" value="216.03220435344437" />
+      <entry key="M30" value="332.5368074652153" />
+      <entry key="H1" value="437.1688893424906" />
+      <entry key="H2" value="509.0810320890809" />
+      <entry key="H4" value="551.5018604982214" />
+      <entry key="D1" value="590.7034323547718" />
+      <entry key="W1" value="597.805080758296" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.3996150315002415E-120" />
+      <entry key="S2" value="1.3578677421561794E-30" />
+      <entry key="S5" value="1.1318301476217046E-12" />
+      <entry key="S10" value="1.1038640342125452E-6" />
+      <entry key="S30" value="0.013647809240858209" />
+      <entry key="S60" value="0.15973627308345267" />
+      <entry key="M2" value="0.5694716468832373" />
+      <entry key="M5" value="1.4479450713987292" />
+      <entry key="M10" value="2.353311795553319" />
+      <entry key="M15" value="2.908954106309743" />
+      <entry key="M30" value="3.7297613622322454" />
+      <entry key="H1" value="4.292362211002644" />
+      <entry key="H2" value="4.625420276941929" />
+      <entry key="H4" value="4.807144616848714" />
+      <entry key="D1" value="4.967050145779823" />
+      <entry key="W1" value="4.995272642762059" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.0256126735222133" />
+      <entry key="MS500" value="5.098013702640184" />
+      <entry key="S2" value="10.217016880478967" />
+      <entry key="S5" value="13.870965238028075" />
+      <entry key="S10" value="16.261480089087957" />
+      <entry key="S30" value="26.098038633602393" />
+      <entry key="S60" value="38.73216872454644" />
+      <entry key="M2" value="56.869367312961714" />
+      <entry key="M5" value="97.9134994445959" />
+      <entry key="M10" value="161.50860081462787" />
+      <entry key="M15" value="218.8879123244838" />
+      <entry key="M30" value="336.22348866632944" />
+      <entry key="H1" value="441.4327409590614" />
+      <entry key="H2" value="513.6898804403231" />
+      <entry key="H4" value="556.3000477921254" />
+      <entry key="D1" value="595.6688873514651" />
+      <entry key="W1" value="602.8001228916484" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
@@ -22,9 +110,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
@@ -44,11 +138,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791233335883</updated>
-      <workItem from="1791233336899" duration="2000" />
+      <workItem from="1791233336899" duration="3392000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished program just forgot to make any commits lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished program just forgot to make any commits lol" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shutdownTimer$main.coverage" NAME="main Coverage Results" MODIFIED="1791236273739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
